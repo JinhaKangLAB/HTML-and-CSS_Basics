@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title> CSS sample </title>
+</head>
+<body>
+
+<div style="width:64px;height:63px;
+background-color:red;
+border:1px solid black;">
+</div>
+
+<div style="width:64px;height:64px;
+background-color:#ffff00;
+border:1px solid #2018ad;">
+</div>
+
+<div style="
+width:196px;
+height:64px;
+background-color:red;
+text-align:center;
+line-height:64px;
+color:white;">
+hello CSS
+</div>
+
+<div style="
+background-color:red;
+width:96px;
+height:32px;
+transform:translate(100px,300px) rotate(45deg);
+"
+
+
+</body>
+</html>
